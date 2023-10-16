@@ -1,6 +1,6 @@
 /* start our framwork */
 * {
-  -webknt-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
@@ -125,7 +125,7 @@ body {
 }
 @media (max-width:767px) {
   .subscribing form .in{
-    padding: 10px 29px;
+    padding: 10px 23px;
     
   }
   
