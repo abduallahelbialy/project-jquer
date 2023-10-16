@@ -1,7 +1,5 @@
 $(document).ready(function () {
   "use strict";
-  //trigger nice scroll plugin
-  // $("html").niceScroll();
   //change header height
   $(".header").height($(window).height());
 
@@ -54,4 +52,3 @@ $(document).ready(function () {
     }
   });
 });
-//toogle meun bar
